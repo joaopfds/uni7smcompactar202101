@@ -43,7 +43,7 @@
     "@types/mocha": "^8.0.0",
     "@types/node": "^15.3.0",
     "chai": "^4.2.18",
-    "conventional-changelog-cli": "^2.0.12",
+    "conventional-changelog-cli": "^2.2.2",
     "coveralls": "^3.0.3",
     "cz-conventional-changelog": "^3.0.2",
     "mkdirp": "^1.0.4",
